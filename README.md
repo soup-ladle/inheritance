@@ -1,2 +1,2 @@
-# inheritance
-"the gameplay is surprisingly empowering," -nobody
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
